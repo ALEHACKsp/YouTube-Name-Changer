@@ -4,7 +4,7 @@ import time
 import requests
 from selenium import webdriver, common
 
-os.system('cls && title [YouTube Username Changer]')
+os.system('cls && title [YouTube Name Changer]')
 CHANNEL_URL = input('[>] YouTube Channel URL: ')
 
 options = webdriver.ChromeOptions()
@@ -71,6 +71,6 @@ while True:
     # For rate limit purposes waiting
     seconds = 60
     while seconds >= 0:
-        os.system(f'title [YouTube Username Changer] - Seconds remaining: {seconds}')
+        os.system(f'title [YouTube Name Changer] - Seconds remaining: {seconds}')
         seconds -= 1
         time.sleep(1)
