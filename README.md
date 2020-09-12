@@ -18,5 +18,11 @@ This tool edits your YouTube channel name to "I have X subscribers" every one mi
 4. Log in to your YouTube account using your e-mail and password — solve captcha if required.
 4. All set!
 
+## Check Google Chrome version
+1. Navigate to the three dots at the top right corner of Google Chrome.
+2. Select "Help", and click "About Google Chrome".<br>
+![](https://i.imgur.com/PiL1MEy.png)<br>
+![](https://i.imgur.com/aluXidt.png)
+
 ## Legal Notice
 This was developed for educational purposes only. I am not accountable for any of your actions; this was merely a speedrun to demonstrate how bots work. Please do not misuse this tool.
