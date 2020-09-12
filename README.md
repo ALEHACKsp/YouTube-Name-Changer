@@ -2,7 +2,7 @@
 Repeatedly edits your YouTube channel name to your live subscribers count. 
 
 ## Information
-This tool edits your YouTube channel name to "I have X subscribers" every one minute, checking for your live subscribers count. It is not using YouTube's official API, making it  more user-friendly — no need to register API keys nor worry about cookies. I would recommend hosting the bot as it has to be constantly running to be kept up to date. Please refrain from using this YouTube bot as automating without the consent of the YouTube team is against their Terms of Service. Nevertheless, if you use this, you are doing it at your own risk. You have been warned.
+This tool edits your YouTube channel name to "I have X subscribers" every one minute, checking for your live subscribers count. It is not using YouTube's official API, making it more user-friendly — no need to register API keys nor worry about cookies. I would recommend hosting the bot as it has to be constantly running to be kept up to date. Please refrain from using this YouTube bot as automating without the consent of the YouTube team is against their Terms of Service. Nevertheless, if you use this, you are doing it at your own risk. You have been warned.
 
 ## Preview
 ![](https://i.imgur.com/nMDhdZB.png)<br>
